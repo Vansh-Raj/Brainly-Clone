@@ -1,1 +1,1 @@
-CRUB App similar to Brainly
+CRUD App similar to Brainly
